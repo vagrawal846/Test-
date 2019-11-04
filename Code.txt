@@ -1,4 +1,6 @@
 x = input("Enter value of x : ")
 y = input("Enter value of y : ")
 sum = x + y
+div = x / y
+print(div)
 print (sum)
