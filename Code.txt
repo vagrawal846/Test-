@@ -1,7 +1,6 @@
 x = input("Enter value of x : ")
 y = input("Enter value of y : ")
 sum = x + y
-xcfefc
 diff = x - y
 mul = x * y
 div = x / y
