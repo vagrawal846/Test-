@@ -1,6 +1,6 @@
 x = input("Enter value of x : ")
 y = input("Enter value of y : ")
-abc
+123
 sum = x + y
 diff = x - y
 mul = x * y
